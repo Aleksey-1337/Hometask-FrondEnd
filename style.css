@@ -1,0 +1,36 @@
+*{
+ margin: 0;
+ padding: 0;
+ border: 0;
+ text-decoration: none;
+ list-style-type: none;
+ color: #000;
+ background-color: transparent;
+ box-sizing: border-box;
+}
+h2{
+    color:black;
+    font-size: 25px;
+}
+form{
+    font-size: 20px;
+}
+input{
+    border: 2px solid #000;
+    margin: 10px auto;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 15px"
+}
+.btn-register{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
